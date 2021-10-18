@@ -1,0 +1,14 @@
+.news-card{
+    background-color: lightgrey;
+    border-radius: 25px;
+    margin: auto;
+    width: 80vw;
+}
+.img{
+    padding-left: 30px;
+    padding-bottom: 30px;
+    height: 200px;
+}
+.img-news{
+    display: flex;
+}
